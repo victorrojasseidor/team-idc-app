@@ -1,1 +1,0 @@
-# team-idc-app
